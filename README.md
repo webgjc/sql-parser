@@ -1,6 +1,6 @@
 # sql-parser
 ## 【学习使用】【仅做参考】
-基于antlr4的sql解析，实现格式化，元数据，血源等自定义解析，包括mysql，hive，spark，presto
+基于antlr4的sql解析，实现格式化，元数据，血源等自定义解析，包括hive
 
 ## 说明文章
 
